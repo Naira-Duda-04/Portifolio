@@ -466,14 +466,6 @@ section{
     border-radius: 5rem;
 }
 
-.contact .row .map{
-    flex: 1 1 25rem;
-    border: 1rem solid var(--cor-secundaria);
-    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
-    border-radius: 5rem;
-    width: 100%;
-}
-
 .contact .row form .box,
 .contact .row form textarea{
     width: 100%;
