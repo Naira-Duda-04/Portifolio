@@ -511,9 +511,14 @@ footer span{
 }
 
 .message{
-    width: 100rem;
+    width: 100%;
     height: 10rem;
     border-bottom: .1rem solid #333;
+    color: #333;
+    text-transform: none;
+    font-size: 1.7rem;
+    padding: 1rem 0;
+    margin: 1rem 0;
 }
 
 label{
